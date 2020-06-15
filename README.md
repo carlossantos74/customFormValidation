@@ -1,9 +1,11 @@
 # Custom Form Validation
 Validação de formulário customizada com HTML, CSS, JS
 
-![Captura de tela de 2020-06-14 22-20-12](https://user-images.githubusercontent.com/49524331/84609398-3c174080-ae8d-11ea-8666-6ffa7ef7e19c.png)
+![image](https://user-images.githubusercontent.com/49524331/84609495-9adcba00-ae8d-11ea-9313-7f6907c04a03.png)
 
-![Captura de tela de 2020-06-14 22-20-47](https://user-images.githubusercontent.com/49524331/84609421-50f3d400-ae8d-11ea-92ea-3eedb892d189.png)
+![image](https://user-images.githubusercontent.com/49524331/84609527-b8118880-ae8d-11ea-914f-0357fb9bb270.png)
+
+![image](https://user-images.githubusercontent.com/49524331/84609544-c65fa480-ae8d-11ea-8d89-ec9b29c58140.png)
 
 
 
